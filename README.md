@@ -6,15 +6,15 @@ Designed to make your everyday tasks easier, Google is bringing a whole new dime
 
 ### Shortcuts Available:
 
-**Turkish Language for Turkish Users**
+**Turkish Language for Turkish Users**  
 Enjoy using the app in your native language. Easily access your desired shortcut without dealing with complicated settings and menus.
 
 > You can also DM me on Telegram to add more language support :D
 
-**Support Button (Babel Software)**
+**Support Button (Babel Software)**  
 Do you have questions? Do you need help? Contact us instantly with the Support button in the app.
 
-**Material You for Android 12 and later**
+**Material You for Android 12 and later**  
 Full Harmony with Material You: Add a personal touch to your app with colors and layout that match your phone's theme.
 
 **Games Launcher**  
