@@ -49,8 +49,8 @@ Quickly invoke your device's voice assistant, such as Gemini, Google Assistant, 
 > **Required Apps:** Google, Google Play Services, and Google Play Games must be installed on your device for shortcuts to function properly.  
 > **Root Access:** Some features require a rooted device for full functionality.
 
-> > [!NOTE | 1]
-> > This project is not entirely my own. I have improved this project by adding additions and various features. I maintain the basic integrity of the project and the application integrity of the main development team. Only the Enhanced UI part of the application belongs to me and the rest of the features belong to [@WSTxda](https://github.com/WSTxda/Google-Shortcuts-Launcher).
+> [!NOTE | 2]
+> **This project is not entirely my own. I have improved this project by adding additions and various features. I maintain the basic integrity of the project and the application integrity of the main development team. Only the Enhanced UI part of the application belongs to me and the rest of the features belong to [@WSTxda](https://github.com/WSTxda/Google-Shortcuts-Launcher).**
 
 ### Download
 
