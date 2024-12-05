@@ -45,12 +45,10 @@ Get real-time local weather updates and detailed weekly forecasts.
 **Voice Assistant**  
 Quickly invoke your device's voice assistant, such as Gemini, Google Assistant, or others, to streamline tasks and access smart voice commands.
 
-> [!NOTE] 1  
+> [!NOTE]  
 > **Required Apps:** Google, Google Play Services, and Google Play Games must be installed on your device for shortcuts to function properly.  
 > **Root Access:** Some features require a rooted device for full functionality.
-
-> [!NOTE] 2  
-> **This project is not entirely my own. I have improved this project by adding additions and various features. I maintain the basic integrity of the project and the application integrity of the main development team. Only the Enhanced UI part of the application belongs to me and the rest of the features belong to [@WSTxda](https://github.com/WSTxda/Google-Shortcuts-Launcher).**
+> **Important Notice:** This project is not entirely my own. I have improved this project by adding additions and various features. I maintain the basic integrity of the project and the application integrity of the main development team. Only the Enhanced UI part of the application belongs to me and the rest of the features belong to [@WSTxda](https://github.com/WSTxda/Google-Shortcuts-Launcher).
 
 ### Download
 
