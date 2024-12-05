@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Google Kısayollar Başlatıcısı</string>
+    <string name="app_settings">Ayarlar</string>
+    <string name="pref_category_shortcuts_manager">Kısayollar Yöneticisi</string>
+    <string name="pref_category_other">Diğer</string>
+    <string name="pref_category_about">Hakkında</string>
+    <string name="pref_wstxda" translatable="false">WSTxda</string>
+    <string name="pref_github" translatable="false">GitHub</string>
+    <string name="pref_version">Sürüm</string>
+    <string name="pref_developer">Geliştirici</string>
+    <string name="pref_source_code">Kaynak Kodu Deposu</string>
+    <string name="pref_shortcut_enabled">Kısayol Başlatıcı Etkin</string>
+    <string name="pref_shortcut_disabled">Kısayol Başlatıcı Devre Dışı</string>
+    <string name="babel_software">Babel Software</string>
+    <string name="yeni_düğme">Yeni Düğme</string>
+    <string name="pref_device_game_manager">Cihaz Oyun Yöneticisi</string>
+    <string name="pref_device_game_manager_summary">Oyunları başlatmak için Google Play Oyunlar klasörü yerine cihaz oyun yöneticisini kullanın</string>
+    <string name="pref_password_manager_root">Parola yöneticisi (root)</string>
+    <string name="pref_password_manager_root_summary">Google Play Hizmetleri\'nde parola yöneticisi etkinliğini açmak için root erişimini kullanın</string>
+    <string name="pref_show_settings">Başlatıcıda ayarları göster</string>
+    <string name="pref_show_settings_summary">Gizliyken ayarlara erişmek için hızlı ayarlar panelindeki <b>Müzik arama</b> qs kutucuğuna basın</string>
+    <string name="pref_add_music_search_quick_settings">Hızlı ayarlar paneline müzik araması ekleme</string>
+    <string name="music_search_quick_settings">Müzik arama</string>
+    <string name="password">Şifre</string>
+    <string name="music_search">Arama</string>
+    <string name="weather">Hava Durumu</string>
+    <string name="games">Oyunlar</string>
+    <string name="assistant">Asistan</string>
+    <string name="lens">Lens</string>
+    <string name="google_not_found">Etkinlik bulunamadı. Lütfen Google Uygulamasını yükleyin veya etkinleştirin</string>
+    <string name="play_games_not_found">Etkinlik bulunamadı. Lütfen Google Play Oyunlar\'ı yükleyin veya etkinleştirin</string>
+    <string name="browser_not_found">Tarayıcı bulunamadı, Lütfen tarayıcınızı yükleyin veya etkinleştirin</string>
+    <string name="game_manager_not_found">Oyun yöneticisi bu cihazda desteklenmiyor</string>
+    <string name="password_manager_root_error">Önce kök izni verin</string>
+    <string name="assistant_game_title">Sesli asistan kısayollarını etkinleştirin mi?</string>
+    <string name="assistant_game_summary">Use voice assistant shortcuts to open your games with buttons and gestures on this device. Select <b>Google Shortcuts Launcher</b> as the default voice assistant to enable this feature</string>
+    <string name="assistant_setup_button">Asistan\'ı Etkinleştir</string>
+    <string name="assistant_cancel_button">İptal</string>
+    <string name="tile_added_success">Hızlı ayarlara başarıyla eklendi</string>
+    <string name="tile_already_added">Hızlı ayarlara zaten eklendi</string>
+
+</resources>
