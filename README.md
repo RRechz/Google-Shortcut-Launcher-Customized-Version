@@ -42,4 +42,4 @@ Quickly invoke your device's voice assistant, such as Gemini, Google Assistant, 
       alt='Get it on GitHub'
       height="80">](https://github.com/WSTxda/Google-Shortcuts-Launcher/releases/latest) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/Telegram.svg"
       alt='Get it on Telegram'
-      height="80">](https://t.me/WSTprojects)
+      height="80">](https://t.me/by_BabelSoftware)
